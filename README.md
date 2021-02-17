@@ -5,7 +5,8 @@ Change in coral reefs through time. Changes due to IOTA hurricane
 
  
 
-Diana Carolina Vergara-Florez 1,2,
+Diana Carolina Vergara-Florez 1,2
+
 Shaliny Ramirez Palma 2 
 
 Corporation Center of Excellence in Marine Sciences (CEMarin) - Early-Stage Researcher 1  
@@ -36,7 +37,7 @@ Possible results according to the article by Gardner et al., 2005:
 
  
 
-{## References 
+## References 
 
 * Gardner, T. A., Côté, I. M., Gill, J. A., Grant, A., & Watkinson, A. R. (2005). Hurricanes and Caribbean coral reefs: impacts, recovery patterns, and role in long‐term decline. Ecology, 86(1), 174-184. 
 
