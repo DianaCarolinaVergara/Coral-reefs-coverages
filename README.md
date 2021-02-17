@@ -55,17 +55,16 @@ Possible results according to the article by Gardner et al., 2005:
 
  
 ### 2019
-Photomosaic – SAI - 2019 
-
-![]
-(https://github.com/DianaCarolinaVergara/Coral-reefs-coverages/blob/main/Fotocuadrante_2019.jpg?raw=true)
+[Photomosaic](https://github.com/DianaCarolinaVergara/Coral-reefs-coverages/blob/main/Fotocuadrante_2019.jpg?raw=true) – SAI - 2019 
 
 
-### After IOTA? What happened to the Seaflower Biosphere Reserve - SAI reefs?
+
+### After IOTA? 
+
+### What happened to the Seaflower Biosphere Reserve - SAI reefs?
 
 
 [CALL NO. 22](https://www.cemarin.org/en/cemarin-call-22-of-2021/) FOR CHAPTERS IN THE OPEN ACCESS BOOK “TOWARDS AN EFFICIENT CLIMATE CHANGE MITIGATION AND ADAPTATION IN THE SEAFLOWER BIOSPHERE RESERVE”
-
 
 
 
