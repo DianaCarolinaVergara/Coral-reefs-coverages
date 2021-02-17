@@ -5,9 +5,10 @@ Change in coral reefs through time. Changes due to IOTA hurricane
 
  
 
-Diana Carolina Vergara-Florez1,2, Shaliny Ramirez Palma2 
+Diana Carolina Vergara-Florez 1,2,
+Shaliny Ramirez Palma 2 
 
-Corporation Center of Excellence in Marine Sciences (CEMarin) - Early-Stage Researcher1  
+Corporation Center of Excellence in Marine Sciences (CEMarin) - Early-Stage Researcher 1  
 
 Universidad de los Andes, Facultad de Ciencias, Departamento de Ciencias Biológicas, Laboratorio de Biología Molecular Marina (BIOMMAR) 2 
 
@@ -35,21 +36,21 @@ Possible results according to the article by Gardner et al., 2005:
 
  
 
-References 
+{## References 
 
-Gardner, T. A., Côté, I. M., Gill, J. A., Grant, A., & Watkinson, A. R. (2005). Hurricanes and Caribbean coral reefs: impacts, recovery patterns, and role in long‐term decline. Ecology, 86(1), 174-184. 
+* Gardner, T. A., Côté, I. M., Gill, J. A., Grant, A., & Watkinson, A. R. (2005). Hurricanes and Caribbean coral reefs: impacts, recovery patterns, and role in long‐term decline. Ecology, 86(1), 174-184. 
 
-Harmelin-Vivien, M. L. (1994). The effects of storms and cyclones on coral reefs: a review. Journal of Coastal Research, 211-231. 
+* Harmelin-Vivien, M. L. (1994). The effects of storms and cyclones on coral reefs: a review. Journal of Coastal Research, 211-231. 
 
-Manzello DP, Brandt M, Smith TB, Lirman D, Hendee JC, Nemeth RS (2007). Hurricanes benefit bleached corals. Proceedings of the National Academy of Sciences 104:12035-12039. 
+* Manzello DP, Brandt M, Smith TB, Lirman D, Hendee JC, Nemeth RS (2007). Hurricanes benefit bleached corals. Proceedings of the National Academy of Sciences 104:12035-12039. 
 
-Massel SR, Done TJ (1993). Effects of cyclone waves on massive coral assemblages on the Great Barrier Reef: meteorology, hydrodynamics and demography. Coral Reefs 12:153-166 
+* Massel SR, Done TJ (1993). Effects of cyclone waves on massive coral assemblages on the Great Barrier Reef: meteorology, hydrodynamics and demography. Coral Reefs 12:153-166 
 
-Páez Prens, O. L., Giraldo Lezcano, J. M., Usuga Flórez, H. J., Espinoza Echeverría, J. M., & Ortíz, L. M. (2012). Actualización del plan de emergencias y contingencia en huracanes para la isla de San Andrés (Doctoral dissertation) 
+* Páez Prens, O. L., Giraldo Lezcano, J. M., Usuga Flórez, H. J., Espinoza Echeverría, J. M., & Ortíz, L. M. (2012). Actualización del plan de emergencias y contingencia en huracanes para la isla de San Andrés (Doctoral dissertation) 
 
-Royero, J. C. O. (2007). Huracanes y tormentas tropicales en el Mar Caribe colombiano desde 1900. Boletín científico CIOH, (25), 54-60. 
+* Royero, J. C. O. (2007). Huracanes y tormentas tropicales en el Mar Caribe colombiano desde 1900. Boletín científico CIOH, (25), 54-60. 
 
-Wilkinson, C. R., & Souter, D. (2008). Status of Caribbean coral reefs after bleaching and hurricanes in 2005. https://repository.library.noaa.gov/view/noaa/486 
+* Wilkinson, C. R., & Souter, D. (2008). Status of Caribbean coral reefs after bleaching and hurricanes in 2005. https://repository.library.noaa.gov/view/noaa/486 
 
  
 ### 2019
